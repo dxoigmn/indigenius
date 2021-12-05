@@ -1,0 +1,26 @@
+html, body {
+  font-family: 'Ubuntu', sans-serif;
+  margin: 2em auto 0em auto;
+  width: 90%;
+  background-color: #FFFFFF;
+  color: #262626;
+  font-size: 1.25em;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 3em;
+  color: #3D996E;
+}
+
+h1 span.darker {
+  color: #262626;
+}
+
+h1 span.ligher {
+  color: #3D996E;
+}
+
+.project h2 {
+  margin: 0;
+}
